@@ -1,6 +1,6 @@
 # Introduction:
 
-this is the final project in CMSC320. Used Python, SQL
+## final project in CMSC320. Used Python, SQL
 
 
 The goal of this project is to develop predictive models to estimate a student's Grade Point Average (GPA) based on their credit hours and average hours studied. GPA is an important indicator of academic performance and is often used for evaluating students' progress and eligibility for various academic opportunities. By accurately predicting a student's GPA, educational institutions can gain insights into their academic performance and make informed decisions regarding academic support, program planning, and resource allocation.
